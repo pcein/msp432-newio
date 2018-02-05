@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Pramode <mail@pramode.in>"]
 
 [dependencies]
-msp432p401r = "0.1.0"
+msp432p401r = "0.1.2"
 cortex-m = "0.3.0"
 
 [dependencies.cortex-m-rt]
